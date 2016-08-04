@@ -1,0 +1,40 @@
+_repo: Main-Street_543
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, Sinclair
+    alias: Lewis, Harry Sinclair
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '278'
+    url: http://www.gutenberg.org/2009/agents/278
+    wikipedia: http://en.wikipedia.org/wiki/Sinclair_Lewis
+description: "Main Street is a satirical novel written by Sinclair Lewis, and published\
+  \ in 1920.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '543'
+  wikidata: Q6736091
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women college graduates -- Fiction'
+- !lcsh 'Minnesota -- Fiction'
+- !lcsh 'Physicians'' spouses -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Satire'
+- !lcc 'PS'
+- GITenberg
+title: Main Street
+url: http://www.gutenberg.org/ebooks/543
+wikipedia:
+- https://en.wikipedia.org/wiki/Main_Street_(novel)
+- https://it.wikipedia.org/wiki/La_via_principale
+- https://pt.wikipedia.org/wiki/Main_Street_(livro)
+- https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%BA%E9%80%9A%E3%82%8A_(%E5%B0%8F%E8%AA%AC)
